@@ -39,3 +39,10 @@ The main datasets are available in the shared Google Drive folder:
 ⚠️ **Important**: In case the Google Drive link becomes unavailable, all data files are also backed up in this repository:
 
 📁 [Backup Data Repository](https://github.com/Truc034/StreamlinePro_UnitEconomics/tree/main/TechStreamData)
+
+### Dataset Descriptions
+#### 1. Monthly Expenses (`Monthly_expenses.xlsx`)
+
+- **Purpose**: Track operational expenses by category
+- **Fields**: month, category, item, amount
+- **Categories**: Server Costs, Software Licenses, Office Rental, Other
