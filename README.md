@@ -96,8 +96,8 @@ All detail computations and conclusions are included in 📁[this notebook](http
 
 ### ✈️ Areas for Improvement
 
-**Customer Acquisition Cost** - Opportunities to optimize marketing spend
-**Customer Retention** - Potential to extend average lifespan beyond 9.8 months
+- **Customer Acquisition Cost** - Opportunities to optimize marketing spend
+- **Customer Retention** - Potential to extend average lifespan beyond 9.8 months
 
 ## 💡 Business Recommendations
 
