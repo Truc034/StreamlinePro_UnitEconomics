@@ -16,3 +16,13 @@ By performing these calculations, TechStream Solutions aims to:
 - **Assess the efficiency** of marketing and sales strategies
 - **Make informed decisions** on scaling operations and optimizing resource allocation
 - **Guide strategic decisions** for sustainable growth and profitability maximization
+
+## 📈 Key Metrics Analyzed
+This analysis focuses on calculating the following critical unit economics metrics:
+
+1. **Customer Acquisition Cost (CAC)** - Cost to acquire a new customer
+2. **Average Revenue Per User (ARPU)** - Average revenue generated per user
+3. **Cost of Goods Sold (COGS)** - Direct costs associated with service delivery
+4. **Gross Margin** - Profitability after direct costs
+5. **Customer Lifetime Value (LTV)** - Total revenue expected from a customer
+6. **LTV/CAC Ratio** - Efficiency metric for customer acquisition
