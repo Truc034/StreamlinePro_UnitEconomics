@@ -4,7 +4,9 @@ Welcome to **TechStream Solutions**! This repository contains a comprehensive un
 
 ## 🎯 Business Context
 **Company:** TechStream Solutions
+
 **Product:** Streamline Pro
+
 **Analysis Period:** March 2023 - Single month analysis for focused insights
 
 TechStream Solutions has been operating for several years and has gathered significant data on costs and revenues. This analysis aims to understand the profitability of Streamline Pro on a per-customer basis through detailed unit economics calculations.
