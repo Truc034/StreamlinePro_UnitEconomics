@@ -45,4 +45,23 @@ The main datasets are available in the shared Google Drive folder:
 
 - **Purpose**: Track operational expenses by category
 - **Fields**: month, category, item, amount
-- **Categories**: Server Costs, Software Licenses, Office Rental, Other
+
+#### 2. Payroll Data ([`Payroll.xlsx`](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTruc034%2FStreamlinePro_UnitEconomics%2Frefs%2Fheads%2Fmain%2FTechStreamData%2FPayroll.xlsx&wdOrigin=BROWSELINK))
+
+- **Purpose**: Track employee compensation by department
+- **Fields**: month, department, employee_name, position, paid
+
+#### 3. Daily Marketing Spending ([`daily_marketing_spendings.xlsx`](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTruc034%2FStreamlinePro_UnitEconomics%2Frefs%2Fheads%2Fmain%2FTechStreamData%2Fdaily_marketing_spendings.xlsx&wdOrigin=BROWSELINK))
+
+- **Purpose**: Track marketing investments across channels
+- **Fields**: date, channel, spending
+
+#### 4. Receipt History ([`receipts_history.xlsx`](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTruc034%2FStreamlinePro_UnitEconomics%2Frefs%2Fheads%2Fmain%2FTechStreamData%2Freceipts_history.xlsx&wdOrigin=BROWSELINK))
+
+- **Purpose**: Track revenue transactions and customer acquisition
+- **Fields**: date, customer_id, receipt_amount, new_customer
+
+#### 5. Customer Lifespan ([`customer_lifespan_data.xlsx`](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTruc034%2FStreamlinePro_UnitEconomics%2Frefs%2Fheads%2Fmain%2FTechStreamData%2Fcustomer_lifespan_data.xlsx&wdOrigin=BROWSELINK))
+
+- **Purpose**: Track customer lifecycle from acquisition to churn
+- **Fields**: customer_id, start_date, churn_date
