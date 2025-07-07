@@ -58,16 +58,6 @@ The main datasets are available in the shared Google Drive folder:
 - **Purpose**: Track customer lifecycle from acquisition to churn
 - **Fields**: customer_id, start_date, churn_date
 
-## 📈 Key Metrics Analyzed
-This analysis focuses on calculating the following critical unit economics metrics:
-
-1. **Customer Acquisition Cost (CAC)** - Cost to acquire a new customer
-2. **Average Revenue Per User (ARPU)** - Average revenue generated per user
-3. **Cost of Goods Sold (COGS)** - Direct costs associated with service delivery
-4. **Gross Margin** - Profitability after direct costs
-5. **Customer Lifetime Value (LTV)** - Total revenue expected from a customer
-6. **LTV/CAC Ratio** - Efficiency metric for customer acquisition
-
 ## 📊 Analysis Notebook
 All detail computations and conclusions are included in 📁[this notebook](https://github.com/Truc034/StreamlinePro_UnitEconomics/blob/main/techstream.ipynb), includes:
 - Data loading
@@ -77,6 +67,14 @@ All detail computations and conclusions are included in 📁[this notebook](http
 - Conclusion and recommendation
 
 ## 📈 Key Metrics Analyzed
+This analysis focuses on calculating the following critical unit economics metrics:
+
+1. **Customer Acquisition Cost (CAC)** - Cost to acquire a new customer
+2. **Average Revenue Per User (ARPU)** - Average revenue generated per user
+3. **Cost of Goods Sold (COGS)** - Direct costs associated with service delivery
+4. **Gross Margin** - Profitability after direct costs
+5. **Customer Lifetime Value (LTV)** - Total revenue expected from a customer
+6. **LTV/CAC Ratio** - Efficiency metric for customer acquisition
 
 | Metric            | Value       |
 |-------------------|-------------|
