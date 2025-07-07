@@ -67,7 +67,7 @@ This analysis focuses on calculating the following critical unit economics metri
 6. **LTV/CAC Ratio** - Efficiency metric for customer acquisition
 
 ## 📊 Analysis Notebook
-All detail computations and conclusions are included in 📁(this notebook)[https://github.com/Truc034/StreamlinePro_UnitEconomics/blob/main/techstream.ipynb].
+All detail computations and conclusions are included in 📁 [this notebook](https://github.com/Truc034/StreamlinePro_UnitEconomics/blob/main/techstream.ipynb).
 The notebook includes:
 - Data loading
 - Revenue & cost aggregation
