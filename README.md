@@ -31,9 +31,9 @@ This analysis focuses on calculating the following critical unit economics metri
 ### Primary Data Source
 
 The main datasets are available in the shared Google Drive folder:
-📁(TechStream Solutions Data)[https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv]
+📁[TechStream Solutions Data](https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv)
 
 ### Backup Data Repository
 
 ⚠️ **Important**: In case the Google Drive link becomes unavailable, all data files are also backed up in this repository:
-📁 (Backup Data Repository)[https://github.com/Truc034/StreamlinePro_UnitEconomics/tree/main/TechStreamData] 
+📁 [Backup Data Repository](https://github.com/Truc034/StreamlinePro_UnitEconomics/tree/main/TechStreamData)
