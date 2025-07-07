@@ -67,7 +67,7 @@ This analysis focuses on calculating the following critical unit economics metri
 6. **LTV/CAC Ratio** - Efficiency metric for customer acquisition
 
 ## 📊 Analysis Notebook
-All detail computations and conclusions are included in 📁[this notebook](https://github.com/Truc034/StreamlinePro_UnitEconomics/blob/main/techstream.ipynb.
+All detail computations and conclusions are included in 📁(this notebook)[https://github.com/Truc034/StreamlinePro_UnitEconomics/blob/main/techstream.ipynb].
 The notebook includes:
 - Data loading
 - Revenue & cost aggregation
@@ -77,11 +77,11 @@ The notebook includes:
 
 ## 📈 Key Metrics Analyzed
 
-| Metric        | Value       |
-|---------------|-------------|
-| CAC           | $1,213.97   |
-| ARPU          | $284.36     |
-| COGS          | $20,264     |
-| Gross Margin  | 75.6%       |
-| LTV           | $2,115.65   |
-| LTV/CAC       | 1.74        |
+| Metric            | Value       |
+|-------------------|-------------|
+| **CAC**           | $1,213.97   |
+| **ARPU**          | $284.36     |
+| **COGS**          | $20,264     |
+| **Gross Margin**  | 75.6%       |
+| **LTV**           | $2,115.65   |
+| **LTV/CAC**       | 1.74        |
