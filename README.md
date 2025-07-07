@@ -28,10 +28,12 @@ This analysis focuses on calculating the following critical unit economics metri
 6. **LTV/CAC Ratio** - Efficiency metric for customer acquisition
 
 ## 💾 Data Sources
-**Primary Data Source**
+### Primary Data Source
+
 The main datasets are available in the shared Google Drive folder:
 📁(TechStream Solutions Data)[https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv]
 
-**Backup Data Repository**
+### Backup Data Repository
+
 ⚠️ **Important**: In case the Google Drive link becomes unavailable, all data files are also backed up in this repository:
 📁 (Backup Data Repository)[https://github.com/Truc034/StreamlinePro_UnitEconomics/tree/main/TechStreamData] 
